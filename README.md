@@ -1,2 +1,4 @@
-# social-media
-Working with social media APIs in Python
+# Social Media
+
+### Working with social media APIs in Python
+
